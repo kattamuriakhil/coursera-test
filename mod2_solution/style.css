@@ -42,7 +42,6 @@ section.js>h2 {
 section>p {
   padding: 30px 10px 10px 10px;
   height: 150px;
-  overflow: scroll;
 }
 .initial{
   width: 100%;
